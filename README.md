@@ -1,5 +1,7 @@
 ## Building Airbnb from Scratch Using React
 
+I followed a tutorial on developing an Airbnb clone using React, Firebase, and Styled Components. Throughout this project, I created several pages, including sign in, sign up, browse, and the homepage. These pages serve different purposes, with some requiring authentication through protected routes and auth listeners. Data management is handled by Firebase Firestore, and a custom hook is implemented to retrieve the necessary data. Firebase is also responsible for handling authentication across all pages.
+
 In the project directory, you can run:
 
 ### `npm start`
